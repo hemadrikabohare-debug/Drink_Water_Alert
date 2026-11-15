@@ -74,7 +74,7 @@ The application contains two buttons:
 
 ## 📸 Sample Notification
 
-![Alert System](Screenshot$2026-11-16$002103.png)
+![Alert System](Screenshot%202026-11-16%20002103.png)
 
 ## ⚙️ Requirements
 
