@@ -74,11 +74,7 @@ The application contains two buttons:
 
 ## 📸 Sample Notification
 
-```text
-Drink Water Alert
-
-Time to drink water!
-```
+![Alert System](Screenshot$2026-11-16$002103.png)
 
 ## ⚙️ Requirements
 
